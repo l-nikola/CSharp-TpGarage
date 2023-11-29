@@ -1,0 +1,7 @@
+C:\Users\fouka\source\repos\TPgarrage\TPgarrage\bin\Debug\TPgarrage.exe.config
+C:\Users\fouka\source\repos\TPgarrage\TPgarrage\bin\Debug\TPgarrage.exe
+C:\Users\fouka\source\repos\TPgarrage\TPgarrage\bin\Debug\TPgarrage.pdb
+C:\Users\fouka\source\repos\TPgarrage\TPgarrage\obj\Debug\TPgarrage.csproj.AssemblyReference.cache
+C:\Users\fouka\source\repos\TPgarrage\TPgarrage\obj\Debug\TPgarrage.csproj.CoreCompileInputs.cache
+C:\Users\fouka\source\repos\TPgarrage\TPgarrage\obj\Debug\TPgarrage.exe
+C:\Users\fouka\source\repos\TPgarrage\TPgarrage\obj\Debug\TPgarrage.pdb
